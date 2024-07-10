@@ -1,4 +1,4 @@
-# b3-fun--Auto-clicker
+# b3 fun Auto clicker
 
 
 ![UntitledProject0000-ezgif com-video-to-gif-converter-min](https://github.com/xONEIROS/b3-fun--Auto-clicker/assets/174752031/8021f9d6-5a0c-4879-b866-a474df00719b)
