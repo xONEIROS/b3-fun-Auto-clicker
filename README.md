@@ -33,7 +33,10 @@ document.addEventListener('click', function(e) {
     document.removeEventListener('click', arguments.callee);
 });
 ```
+#یک نکته مهم 📢  ، بعد از اینکه نعداد کلیک هاتون تموم شد ، مثلا 5000 تا کلیک رو کرد سریع صفحه رو رفرش نکنید ، یک دقیقه صبر کنید تا سایتش کلیک هایی که کردید رو ثبت کنه !
 
+## اگه دوست داشتید این پروفایل گیت هاب رو فالو کنید ! 💯
+## به حمایتت نیاز داریم رفیق >> لینک برای فالو : [xONEIROS](https://github.com/xONEIROS)  💛 💙 💜 ❤️
 
 <div align="center">
     <p>
